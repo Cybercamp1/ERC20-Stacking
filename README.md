@@ -114,7 +114,7 @@ The project now includes a **Premium Next.js Frontend** to interact with the pro
 - **No Early Withdrawal Penalty**: Users can withdraw their stake at any time without fees.
 
 ---
-Built by Sai Nithish - Junior Blockchain Developer Portfolio.
+Built by Sai Nithish -  Blockchain Developer
 =======
 # ERC20-Stacking
 A complete ERC-20 staking decentralized application (dApp) built with Solidity, Foundry, and OpenZeppelin. This protocol allows users to stake a custom ERC-20 token (STK) and earn rewards over time using the Synthetix "rewardPerToken" accumulator algorithm.
