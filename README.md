@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ERC-20 Staking Protocol
 
 A complete ERC-20 staking decentralized application (dApp) built with Solidity, Foundry, and OpenZeppelin. This protocol allows users to stake a custom ERC-20 token (STK) and earn rewards over time using the Synthetix "rewardPerToken" accumulator algorithm.
@@ -114,3 +115,7 @@ The project now includes a **Premium Next.js Frontend** to interact with the pro
 
 ---
 Built by Sai Nithish - Junior Blockchain Developer Portfolio.
+=======
+# ERC20-Stacking
+A complete ERC-20 staking decentralized application (dApp) built with Solidity, Foundry, and OpenZeppelin. This protocol allows users to stake a custom ERC-20 token (STK) and earn rewards over time using the Synthetix "rewardPerToken" accumulator algorithm.
+>>>>>>> ff463ca7dc40a8b29964f270dcd3c62a8c57e848
